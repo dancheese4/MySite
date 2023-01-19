@@ -67,16 +67,6 @@ div{
 	color: #fff0fd;
 	font-size: 16px;
 }
-ul{
-	margin-left: -3%;
-}
-.menu{
-	list-style-type: none;
-	display: none;
-}
-li:hover > table {
-	display: block;
-}
 .cover{
 	margin-left: -10px;
 	width: 90%;
